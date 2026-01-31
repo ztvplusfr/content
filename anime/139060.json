@@ -31,8 +31,9 @@
             {
               "lang": "jp",
               "quality": "1080p",
-              "url": "https://lien-s2-e1-jap.m3u8",
-              "play": 1
+              "url": "https://cdn2.daisukianime.xyz/sib/6094357?epid=null",
+              "play": 1,
+              "api": "d"
             }
           ]
         }
