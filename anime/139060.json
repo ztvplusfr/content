@@ -1,0 +1,42 @@
+{
+  "seasons": [
+    {
+      "season_number": 1,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "servers": [
+            {
+              "lang": "fr",
+              "quality": "1080p",
+              "url": "https://lien-s1-e1-fr.mp4",
+              "play": 1
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "season_number": 2,
+      "episodes": [
+        {
+          "episode_number": 1,
+          "servers": [
+            {
+              "lang": "fr",
+              "quality": "1080p",
+              "url": "https://bram265724.bramtiv.com/files/aa/TeJf8DWhWqfcMc6w6hBozDV0otmSP5yJkiY.m3u8",
+              "play": 1
+            },
+            {
+              "lang": "jp",
+              "quality": "1080p",
+              "url": "https://lien-s2-e1-jap.m3u8",
+              "play": 1
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
