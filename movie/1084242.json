@@ -1,8 +1,16 @@
 {
-  "server": {
-    "lang": "fr",
-    "quality": "1080p",
-    "url": "https://bram265724.bramtiv.com/files/aa/TeJf8DWhWqfcMc6w6hBozDV0otmSP5yJkiY.m3u8",
-    "play": 1
-  }
+  "servers": [
+    {
+      "lang": "fr",
+      "quality": "1080p",
+      "url": "https://bram265724.bramtiv.com/files/aa/TeJf8DWhWqfcMc6w6hBozDV0otmSP5yJkiY.m3u8",
+      "play": 1
+    },
+    {
+      "lang": "en",
+      "quality": "1080p",
+      "url": "https://bram265724.bramtiv.com/files/aa/URL_DU_FLUX_ENGLISH.m3u8",
+      "play": 1
+    }
+  ]
 }
